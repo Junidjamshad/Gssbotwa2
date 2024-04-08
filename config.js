@@ -18,12 +18,12 @@ global.typemenu = "v1"
 global.menuType = "2"
 global.autoswview = true
 global.autoread = false
-global.available = false
+global.available = true
 global.autoTyping = false
-global.autoRecord = false
-global.autoreact = false
+global.autoRecord = true
+global.autoreact = true
 global.onlygroup = false
-global.onlypc = false
+global.onlypc = true
 global.welcome = true
 global.autoBlock = true
  
